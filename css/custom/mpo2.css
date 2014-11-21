@@ -1,0 +1,288 @@
+.xsm-pad-top{padding-top: 2px;}
+.xsm-pad-btm{padding-bottom: 2px;}
+.xsm-pad-lt{padding-left: 2px;}
+.xsm-pad-rt{padding-right: 2px;}
+
+.sm-pad-top{padding-top: 5px;}
+.sm-pad-btm{padding-bottom: 5px;}
+.sm-pad-lt{padding-left: 5px;}
+.sm-pad-rt{padding-right: 5px;}
+
+.med-pad-top{padding-top: 15px;}
+.med-pad-btm{padding-bottom: 15px;}
+.med-pad-lt{padding-left: 15px;}
+.med-pad-rt{padding-right: 15px;}
+
+.lrg-pad-top{padding-top: 25px;}
+.lrg-pad-btm{padding-bottom: 25px;}
+.lrg-pad-lt{padding-left: 25px;}
+.lrg-pad-rt{padding-right: 25px;}
+
+.lg-pad-top-per{padding-top: 13%;}
+.mar-tp-10{margin-top: 10px;}
+.mar-btm-10{margin-bottom: 10px;}
+.remove-bottom{padding-bottom: 0; margin-bottom: 0;}
+
+.left{float: left;}
+.right{float: right;}
+.clear{clear: both;}
+
+.no-hover:hover{background-color: #fff;}
+.middle{display: block !important; margin: auto !important; text-align: center;}
+.txt-wht{color: #fff;}
+.txt-blk{color: #000;}
+.txt-tur{color:#009999;}
+.sl{color: #000; margin-top: 5px;}
+.olli{color: #000; margin: 10px 0 10px 0; font: 1.7em 'brandon_grotesquelight'; list-style: decimal; padding-left: 40px;}
+.copy{text-align: right; font-size: 6pt; padding-right: 50px;}
+.clear{clear: both;}
+
+.turquoise{background: #009999; color: #fff;}
+.coral{background: #ff9966; color: #fff;}
+.yellow{background: #ffcc66; color: #fff;}
+.white{background: #f0f0f1; color: #fff;}
+.black{background: #333; color: #fff;}
+footer{bottom: 0;}
+
+.span-t{width: 100%; background: #009999; padding: 75px 0;}
+.span-t-np{width: 100%; background: #009999;}
+.span-c{width: 100%; background: #ff9966; padding: 75px 0;}
+.span-y{width: 100%; background: #ffcc66; padding: 75px 0;}
+.span-w{width: 100%; background: #f0f0f1; padding: 75px 0;}
+.span-b{width: 100%; background: #333; padding: 75px 0;}
+
+.prof-info{font-size: 1.2em;}
+.index-photos{margin: 0 !important;}
+
+/*** BUTTONS ***/
+
+.btn-med{padding: 12px 60px !important; font-size: 12pt !important;}
+.btn-lrg{padding: 15px 95px!important; font-size: 14pt !important;}
+.btn-blk{border: 2px solid #000;}
+
+
+/*** NAV STUFF ***
+nav {
+    margin: 0 auto; 
+    text-align: center;
+    font-family: 'brandon_grotesquemedium';
+}
+
+nav ul ul {
+    display: none;
+}
+
+    nav ul li:hover > ul {
+        display: block;
+    }
+
+
+nav ul {
+    background: #fff; 
+    padding: 0 5px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+}
+    nav ul:after {
+        content: ""; clear: both; display: block;
+    }
+
+    nav ul li {
+        float: left;
+    }
+        nav ul li:hover {
+            background: #4b545f;
+        }
+            nav ul li:hover a {
+                color: #fff;
+            }
+        
+        nav ul li a {
+            display: block; padding: 27px 40px;
+            color: #757575; text-decoration: none;
+        }
+nav ul button{
+    float: right;
+    margin: 20px 10px;
+}   
+        
+    nav ul ul {
+        background: #5f6975; border-radius: 0px; padding: 0;
+        position: absolute; top: 100%;
+    }
+        nav ul ul li {
+            float: none; 
+            border-top: 1px solid #6b727c;
+            border-bottom: 1px solid #575f6a; 
+            position: relative;
+        }
+            nav ul ul li a {
+                padding: 15px 40px;
+                color: #fff;
+            }   
+                nav ul ul li a:hover {
+                    background: #4b545f;
+                }
+li{margin: 0 !important;}
+**/
+
+/*** FONT STUFF ***/
+@font-face {
+    font-family: 'brandon_grotesquelight_italic';
+    src: url('brandongrotesque-lightitalic-webfont.eot');
+    src: url('brandongrotesque-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-lightitalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-lightitalic-webfont.woff') format('woff'),
+         url('brandongrotesque-lightitalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-lightitalic-webfont.svg#brandon_grotesquelight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquelight';
+    src: url('brandongrotesque-light-webfont.eot');
+    src: url('brandongrotesque-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-light-webfont.woff2') format('woff2'),
+         url('brandongrotesque-light-webfont.woff') format('woff'),
+         url('brandongrotesque-light-webfont.ttf') format('truetype'),
+         url('brandongrotesque-light-webfont.svg#brandon_grotesquelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquebold_italic';
+    src: url('brandongrotesque-bolditalic-webfont.eot');
+    src: url('brandongrotesque-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-bolditalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-bolditalic-webfont.woff') format('woff'),
+         url('brandongrotesque-bolditalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-bolditalic-webfont.svg#brandon_grotesquebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquebold';
+    src: url('brandongrotesque-bold-webfont.eot');
+    src: url('brandongrotesque-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-bold-webfont.woff2') format('woff2'),
+         url('brandongrotesque-bold-webfont.woff') format('woff'),
+         url('brandongrotesque-bold-webfont.ttf') format('truetype'),
+         url('brandongrotesque-bold-webfont.svg#brandon_grotesquebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesqueblack_italic';
+    src: url('brandongrotesque-blackitalic-webfont.eot');
+    src: url('brandongrotesque-blackitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-blackitalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-blackitalic-webfont.woff') format('woff'),
+         url('brandongrotesque-blackitalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-blackitalic-webfont.svg#brandon_grotesqueblack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesqueblack';
+    src: url('brandongrotesque-black-webfont.eot');
+    src: url('brandongrotesque-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-black-webfont.woff2') format('woff2'),
+         url('brandongrotesque-black-webfont.woff') format('woff'),
+         url('brandongrotesque-black-webfont.ttf') format('truetype'),
+         url('brandongrotesque-black-webfont.svg#brandon_grotesqueblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquethin_italic';
+    src: url('brandongrotesque-thinitalic-webfont.eot');
+    src: url('brandongrotesque-thinitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-thinitalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-thinitalic-webfont.woff') format('woff'),
+         url('brandongrotesque-thinitalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-thinitalic-webfont.svg#brandon_grotesquethin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesque_regularRg';
+    src: url('brandongrotesque-regular-webfont.eot');
+    src: url('brandongrotesque-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-regular-webfont.woff2') format('woff2'),
+         url('brandongrotesque-regular-webfont.woff') format('woff'),
+         url('brandongrotesque-regular-webfont.ttf') format('truetype'),
+         url('brandongrotesque-regular-webfont.svg#brandon_grotesque_regularRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquemedium';
+    src: url('brandongrotesque-medium-webfont.eot');
+    src: url('brandongrotesque-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-medium-webfont.woff2') format('woff2'),
+         url('brandongrotesque-medium-webfont.woff') format('woff'),
+         url('brandongrotesque-medium-webfont.ttf') format('truetype'),
+         url('brandongrotesque-medium-webfont.svg#brandon_grotesquemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesquethin';
+    src: url('brandongrotesque-thin-webfont.eot');
+    src: url('brandongrotesque-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-thin-webfont.woff2') format('woff2'),
+         url('brandongrotesque-thin-webfont.woff') format('woff'),
+         url('brandongrotesque-thin-webfont.ttf') format('truetype'),
+         url('brandongrotesque-thin-webfont.svg#brandon_grotesquethin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesqueRgIt';
+    src: url('brandongrotesque-regularitalic-webfont.eot');
+    src: url('brandongrotesque-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-regularitalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-regularitalic-webfont.woff') format('woff'),
+         url('brandongrotesque-regularitalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-regularitalic-webfont.svg#brandon_grotesqueRgIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'brandon_grotesqueMdIt';
+    src: url('brandongrotesque-mediumitalic-webfont.eot');
+    src: url('brandongrotesque-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('brandongrotesque-mediumitalic-webfont.woff2') format('woff2'),
+         url('brandongrotesque-mediumitalic-webfont.woff') format('woff'),
+         url('brandongrotesque-mediumitalic-webfont.ttf') format('truetype'),
+         url('brandongrotesque-mediumitalic-webfont.svg#brandon_grotesqueMdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
