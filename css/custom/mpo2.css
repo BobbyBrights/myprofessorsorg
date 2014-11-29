@@ -60,6 +60,25 @@ footer{bottom: 0;}
 .btn-lrg{padding: 15px 95px!important; font-size: 14pt !important;}
 .btn-blk{border: 2px solid #000;}
 
+/*** @medias for Nav ***/
+@media screen and (min-width: 1480px) and (max-width: 1664px) {
+    .nav-container{width: 63% !important;}
+    }
+@media screen and (min-width: 1280px) and (max-width: 1479px) {
+    .nav-container{width: 66% !important;}
+    }
+@media screen and (max-width: 1280px){
+    .nav-container{display: none !important;}
+    .mean-menu{display: block !important;}
+    .turquoise{padding-top: 20px !important;}
+    /*.mean-bar{height: 56px;}*/
+    }
+@media screen and (min-width: 1279px){
+    .nav-container{display: block !important;}
+    .mean-menu{display: none !important;}
+    }
+
+
 
 /*** NAV STUFF ***
 nav {
@@ -272,17 +291,3 @@ li{margin: 0 !important;}
     font-style: normal;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

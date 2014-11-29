@@ -4,7 +4,7 @@
 	<div class="container">
 	<div class="turquoise sixteen columns">
 		<h1 class="remove-bottom mar-tp-10 txt-wht">WE ARE HERE TO HELP</h1>
-		<p class="ten columns">Learn what you want, when you want. With the help from our extensive course library and online professors, anything is possible.</p>
+		<p class="ten columns med-pad-btm">Learn what you want, when you want. With the help from our extensive course library and online professors, anything is possible.</p>
 		<img src="assets/myprofessors1.png" class="five columns">
 	</div>
 	</div>

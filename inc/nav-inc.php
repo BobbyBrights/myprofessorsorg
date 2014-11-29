@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>MyProfessors.org</title>
-	<meta name="description" content="MyProfessors.org, Design Team Production">
-	<meta name="author" content="Jade Marucut, Micael Butial">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>MyProfessors.org</title>
+  <meta name="description" content="MyProfessors.org, Design Team Production">
+  <meta name="author" content="Jade Marucut, Micael Butial">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-	<!-- CSS
+  <!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="skeleton/stylesheets/base.css">
-	<link rel="stylesheet" href="skeleton/stylesheets/skeleton.css">
-	<link rel="stylesheet" href="skeleton/stylesheets/layout.css">
-	<link rel="stylesheet" href="css/custom/mpo2.css">
-  <link rel='stylesheet' media='screen and (max-width: 1280px)' href='css/meanmenu.css'>
-	<!--<link href="css/skins/black.css" rel="stylesheet" type="text/css" />-->
+  <link rel="stylesheet" href="skeleton/stylesheets/base.css">
+  <link rel="stylesheet" href="skeleton/stylesheets/skeleton.css">
+  <link rel="stylesheet" href="skeleton/stylesheets/layout.css">
+  <link rel="stylesheet" href="css/custom/mpo2.css">
+    <link rel='stylesheet' media='screen and (max-width: 1280px)' href='css/meanmenu.css'>
+  <!--<link href="css/skins/black.css" rel="stylesheet" type="text/css" />-->
 
-	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-	<!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="skeleton/images/myprofessor-fav.png">
-	<link rel="apple-touch-icon" href="skeleton/images/myprofessor-fav.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="skeleton/images/myprofessor-fav.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="skeleton/images/myprofessor-fav.png">
-	
+  <!-- Favicons
+  ================================================== -->
+  <link rel="shortcut icon" href="skeleton/images/myprofessor-fav.png">
+  <link rel="apple-touch-icon" href="skeleton/images/myprofessor-fav.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="skeleton/images/myprofessor-fav.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="skeleton/images/myprofessor-fav.png">
+  
     
     <!-- Rain -->
     <link href="css/dcmegamenu.css" rel="stylesheet" type="text/css" />
@@ -45,25 +45,13 @@
     });
     $(document).ready(function(){$(".container").hide().fadeIn(1000);});
     </script>    
-    <style type="text/css">
-        @media screen and (max-width: 1280px){
-            .nav-container{display: none;}
-            .mean-menu{display: block;}
-            .turquoise{padding-top: 20px;}
-            /*.mean-bar{height: 56px;}*/
-        }
-        @media screen and (min-width: 1279px){
-            .nav-container{display: block;}
-            .mean-menu{display: none;}
-        }
-    </style>
 </head>
 <body>
 
 
     <div class="nav-container">
     <ul id="mega-menu-1" class="mega-menu">
-    	<li><img src="assets/myprofessorlogo-14.png" class="xsm-pad-top" media='screen and (max-width: 1280px)'></li>
+      <li><img src="assets/myprofessorlogo-14.png" class="xsm-pad-top" media='screen and (max-width: 1280px)'></li>
         <li><a href="index.php">Home</a></li>
         <li><a href="get-started.php">Getting Started</a></li>
         <li><a href="professors.php">Professors</a></li>
@@ -194,7 +182,7 @@
             </ul>
         </li>
         <li><button class="sl btn-blk">Sign Up</button></li>
-		<li><button class="sl btn-blk">Log In</button></li>
+    <li><button class="sl btn-blk">Log In</button></li>
     </ul>
     </div>
 <!-- 480px smaller nav -->
