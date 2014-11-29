@@ -55,6 +55,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="get-started.php">Getting Started</a></li>
         <li><a href="professors.php">Professors</a></li>
+        <li><a href="colleges.php">Colleges</a></li>
         <li><a href="topics.php">Topics</a>
             <ul>
                 <li><a href="#">A</a>
