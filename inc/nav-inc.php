@@ -186,13 +186,14 @@
     <li><button class="sl btn-blk">Log In</button></li>
     </ul>
     </div>
-<!-- 480px smaller nav -->
+<!-- 1280px smaller nav -->
     <header class="mean-menu">
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="get-started.php">Getting Started</a></li>
             <li><a href="professors.php">Professors</a></li>
+            <li><a href="colleges.php">Colleges</a></li>
             <li><a href="topics.php">Topics</a>
             <ul>
                 <li><a href="#">A</a>
