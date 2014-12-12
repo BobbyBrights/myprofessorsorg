@@ -3,7 +3,8 @@
 	<div class="span-t-np">
 	<div class="container">
 	<div class="turquoise sixteen columns">
-		<h1 class="remove-bottom mar-tp-10 txt-wht">MyProfessors.org assists you with your classes</h1>
+		<h1 class="mar-tp-10 txt-wht">We are here to help</h1>
+		<h2 class="remove-bottom sm-mar-top txt-wht">MyProfessors.org assists you with your classes</h2>
 		<p class="ten columns med-pad-btm">Learn what you want, when you want. With the help from our extensive course library and online professors, anything is possible.</p>
 		<img src="assets/myprofessors1.png" class="five columns">
 	</div>
@@ -32,7 +33,7 @@
 		<img src="assets/homepage-16.png" class="seven columns">
 		<div class="eight columns">
 		<h1 class="txt-wht middle med-pad-btm">Unlimited access to our online resources</h1>
-		<button class="btn-lrg middle">View Library</button>
+		<a href="topics.php"><button class="btn-lrg middle">View Library</button></a>
 		</div>
 	</div>
 	</div>
