@@ -15,8 +15,8 @@
 		<a href="index.php"><li class="txt-wht">FAQ</li></a>
 	</ul>
 	<ul class="three columns">
-		<a href="index.php"><li class="txt-wht">About</li></a>
-		<a href="index.php"><li class="txt-wht">Professors</li></a>
+		<a href="get-started.php"><li class="txt-wht">About</li></a>
+		<a href="professors.php"><li class="txt-wht">Professors</li></a>
 		<a href="index.php"><li class="txt-wht">Press</li></a>
 		<a href="index.php"><li class="txt-wht">Blog</li></a>
 		<a href="index.php"><li class="txt-wht">Careers</li></a>
@@ -31,10 +31,10 @@
 		<a href="index.php"><li class="txt-wht">Sales</li></a>
 	</ul>
 	<ul class="three columns">
-		<a href="index.php"><li class="txt-wht">Topics</li></a>
-		<a href="index.php"><li class="txt-wht">Subjects</li></a>
-		<a href="index.php"><li class="txt-wht">Tutorials</li></a>
-		<a href="index.php"><li class="txt-wht">Software</li></a>
+		<a href="topics.php"><li class="txt-wht">Topics</li></a>
+		<a href="topics.php"><li class="txt-wht">Subjects</li></a>
+		<a href="topics.php"><li class="txt-wht">Tutorials</li></a>
+		<a href="topics.php"><li class="txt-wht">Software</li></a>
 		<a href="index.php"><li class="txt-wht">Live Chat</li></a>
 	</ul>
 	
