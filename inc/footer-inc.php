@@ -43,7 +43,8 @@
 	<p>&copy; MyProfessors, Inc. 2014. All rights reserved.</p>
 	</div>	
 </footer>
-
+<a href="#0" class="cd-top">Top</a>
+<script src="js/main.js"></script>
 <script src="js/jquery.meanmenu.js"></script> 
 <script>
 jQuery(document).ready(function () {

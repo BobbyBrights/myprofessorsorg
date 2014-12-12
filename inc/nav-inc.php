@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="skeleton/stylesheets/skeleton.css">
   <link rel="stylesheet" href="skeleton/stylesheets/layout.css">
   <link rel="stylesheet" href="css/custom/mpo2.css">
+  <link rel="stylesheet" href="css/b2t_style.css">
     <link rel='stylesheet' media='screen and (max-width: 1280px)' href='css/meanmenu.css'>
   <!--<link href="css/skins/black.css" rel="stylesheet" type="text/css" />-->
 
@@ -23,7 +24,7 @@
   <!-- Favicons
   ================================================== -->
   
-    
+    <script src="js/modernizr.js"></script>
     <!-- Rain -->
     <link href="css/dcmegamenu.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -40,6 +41,7 @@
         });
     });
     $(document).ready(function(){$(".container").hide().fadeIn(1000);});
+
     </script>    
 </head>
 <body>
