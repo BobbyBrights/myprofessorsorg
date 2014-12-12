@@ -25,15 +25,7 @@
 		<img src="assets/homepage-15.png" class="left" width="50%">
 	</div>
 	<div class="clear"></div>
-	<div class="span-t">
-	<div class="container">
-	<div class="turquoise sixteen columns">
-		<h1 class="remove-bottom mar-tp-10 txt-wht eight columns">One on One Communication</h1>
-		<p class="eight columns alpha">Get help with your classes from the best instructors from different colleges. Sign up now and schedule an appointment.</p>
-		<img src="assets/video_homepage.png" class="eight columns omega">
-	</div>
-	</div>
-	</div>
+<?php include('inc/oneonone.php');?>
 	<div class="span-y">
 	<div class="container">
 	<div class="yellow sixteen columns">

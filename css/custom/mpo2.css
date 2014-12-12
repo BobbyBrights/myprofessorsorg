@@ -1,7 +1,7 @@
-.xsm-pad-top{padding-top: 2px;}
-.xsm-pad-btm{padding-bottom: 2px;}
-.xsm-pad-lt{padding-left: 2px;}
-.xsm-pad-rt{padding-right: 2px;}
+.xsm-pad-top{padding-top: 3px;}
+.xsm-pad-btm{padding-bottom: 3px;}
+.xsm-pad-lt{padding-left: 3px;}
+.xsm-pad-rt{padding-right: 3px;}
 
 .sm-pad-top{padding-top: 5px;}
 .sm-pad-btm{padding-bottom: 5px;}
@@ -41,7 +41,11 @@
 .lg-pad-top-per{padding-top: 13%;}
 .mar-tp-10{margin-top: 10px;}
 .mar-btm-10{margin-bottom: 10px;}
+
 .remove-bottom{padding-bottom: 0; margin-bottom: 0;}
+.remove-top{padding-top: 0; margin-top: 0;}
+.remove-left{padding-left: 0; margin-left: 0;}
+.remove-right{padding-right: 0; margin-right: 0;}
 
 .left{float: left;}
 .right{float: right;}
@@ -80,7 +84,7 @@ footer{bottom: 0;}
 
 .btn-med{padding: 12px 60px !important; font-size: 12pt !important;}
 .btn-lrg{padding: 15px 95px!important; font-size: 14pt !important;}
-.btn-blk{border: 2px solid #000;}
+.btn-blk{border: 2px solid #000; background: #fff;}
 
 input{border-radius: 3px;}
 
@@ -88,7 +92,7 @@ input{border-radius: 3px;}
 @media screen and (min-width: 1480px) and (max-width: 1664px) {
     .nav-container{width: 63% !important;}
     }
-@media screen and (min-width: 1280px) and (max-width: 1479px) {
+@media screen and (min-width: 1281px) and (max-width: 1479px) {
     .nav-container{width: 66% !important;}
     }
 @media screen and (max-width: 1280px){

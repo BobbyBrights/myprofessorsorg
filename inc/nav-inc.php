@@ -22,10 +22,6 @@
 
   <!-- Favicons
   ================================================== -->
-  <link rel="shortcut icon" href="skeleton/images/myprofessor-fav.png">
-  <link rel="apple-touch-icon" href="skeleton/images/myprofessor-fav.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="skeleton/images/myprofessor-fav.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="skeleton/images/myprofessor-fav.png">
   
     
     <!-- Rain -->
@@ -51,7 +47,7 @@
 
     <div class="nav-container">
     <ul id="mega-menu-1" class="mega-menu">
-      <li><img src="assets/myprofessorlogo-14.png" class="xsm-pad-top" media='screen and (max-width: 1280px)'></li>
+      <li><img src="assets/myprofessorlogo-14.png" class="xsm-pad-top sm-pad-rt" media='screen and (max-width: 1280px)'></li>
         <li><a href="index.php">Home</a></li>
         <li><a href="get-started.php">Getting Started</a></li>
         <li><a href="professors.php">Professors</a></li>
@@ -182,8 +178,7 @@
 
             </ul>
         </li>
-        <li><button class="sl btn-blk">Sign Up</button></li>
-    <li><button class="sl btn-blk">Log In</button></li>
+        <li><button class="sl btn-blk">Sign Up / Log In</button></li>
     </ul>
     </div>
 <!-- 1280px smaller nav -->
