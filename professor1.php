@@ -15,7 +15,9 @@
 			<p class="txt-blk">dani_multimedia@hotmail.com<br>
 			professornikolaeva@mp.com
 			</p>
-			<h4 class="lrg-pad-top"><a href="#" class="txt-tur">See Availability</a></h4>
+			<h4 class="lrg-pad-top"><a href="about_the_professor.php" class="txt-tur">About Daniela</a></h4>
+			<h4><a href="#" class="txt-tur">See Availability</a></h4>
+
 		</div>
 		<div class="eight columns omega middle">
 			<h3>See Daniela's Schedule</h3>

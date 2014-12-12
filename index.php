@@ -22,8 +22,8 @@
 	</div>
 	</div>
 	<div class="sixteen columns middle">
-		<img src="assets/homepage-14.png" class="left" width="50%">
-		<img src="assets/homepage-15.png" class="left" width="50%">
+		<img src="assets/hp1.png" class="left" width="50%">
+		<img src="assets/hp2.png" class="left" width="50%">
 	</div>
 	<div class="clear"></div>
 <?php include('inc/oneonone.php');?>

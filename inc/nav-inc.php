@@ -317,7 +317,7 @@
 
             </ul>
         </li>
-
+        <li><a href="index.php">Sign Up / Log In</a></li>
 
             
         </ul>

@@ -47,6 +47,8 @@
 .remove-left{padding-left: 0; margin-left: 0;}
 .remove-right{padding-right: 0; margin-right: 0;}
 
+.no-margin{margin: 0;}
+
 .left{float: left;}
 .right{float: right;}
 .clear{clear: both;}
@@ -79,6 +81,7 @@ footer{bottom: 0;}
 
 .prof-info{font-size: 1.2em; color: #000;}
 .index-photos{margin: 0 !important;}
+.about{color: #000; font-size: 14px; float: left;}
 
 /*** BUTTONS ***/
 
