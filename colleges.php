@@ -1,5 +1,5 @@
 <?php include('inc/nav-inc.php');?>
-	<div class="span-p sm-pad-top sm-pad-btm">
+	<div class="span-p">
 	<div class="container">
 	<div class="pink sixteen columns xlrg-pad-top xlrg-pad-btm">
 		<img src="assets/college-23.png" class="seven columns">

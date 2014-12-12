@@ -142,7 +142,7 @@
                 	meanMenuExist = true;
                 	// add class to body so we don't need to worry about media queries here, all CSS is wrapped in '.mean-container'
                 	jQuery(meanContainer).addClass("mean-container");
-                	jQuery('.mean-container').prepend('<div class="mean-bar"><img src="assets/myprofessorlogo-14.png" class="med-pad-lt mar-tp-10 mar-btm-10"><a href="#nav" class="meanmenu-reveal sm-pad-top" style="'+meanStyles+'">Show Navigation</a><nav class="mean-nav"></nav></div>');
+                	jQuery('.mean-container').prepend('<div class="mean-bar"><img src="assets/myprofessorlogo-14.png" class="lrg-pad-lt mar-tp-10 mar-btm-10"><a href="#nav" class="meanmenu-reveal sm-pad-top" style="'+meanStyles+'">Show Navigation</a><nav class="mean-nav"></nav></div>');
                     
                     //push meanMenu navigation into .mean-nav
                     var meanMenuContents = jQuery(meanMenu).html();

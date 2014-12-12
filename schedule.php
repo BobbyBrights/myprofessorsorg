@@ -1,5 +1,5 @@
 <?php include('inc/nav-inc.php');?>
-	<div class="span-w sm-pad-top sm-pad-btm">
+	<div class="span-w">
 	<div class="container">
 	<div class="white sixteen columns">
 		<h3 class="sm-pad-btm">Meet the Professsors</h3>

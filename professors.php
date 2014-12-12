@@ -1,6 +1,6 @@
 <?php include('inc/nav-inc.php');?>
 
-	<div class="span-y sm-pad-top">
+	<div class="span-y">
 	<div class="container med-pad-top">
 	<div class="yellow sixteen columns sm-pad-btm">
 		<h1 class="sm-pad-btm mar-tp-10 txt-wht">Meet the Professors</h1>
@@ -81,8 +81,8 @@
 	<div class="span-t sm-pad-top sm-pad-btm">
 	<div class="container">
 	<div class="turquoise sixteen columns">
-		<h1 class="remove-bottom mar-tp-10 txt-wht eight columns">ONE ON ONE VIDEO COMMUNICATION</h1>
-		<p class="eight columns">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ea ullam omnis ipsum commodi expedita aut, voluptatem voluptates facilis obcaecati adipisci esse sed totam neque incidunt ad illo rerum consequuntur.</p>
+		<h1 class="remove-bottom mar-tp-10 txt-wht eight columns">One on One Communication</h1>
+		<p class="eight columns alpha">Get help with your classes from the best instructors from different colleges. Sign up now and schedule an appointment.</p>
 		<img src="assets/video.png" class="med-pad-lt">
 	</div>
 	</div>

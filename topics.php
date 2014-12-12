@@ -1,6 +1,6 @@
 <?php include('inc/nav-inc.php');?>
 
-	<div class="span-w sm-pad-top sm-pad-btm">
+	<div class="span-w">
 	<div class="container">
 	<div class="white sixteen columns">
 		<h2 class="med-pad-btm med-pad-top">A Beginner's Guide to Adobe Illustrator</h2>
@@ -24,7 +24,7 @@
 	</div>
 	</div>
 	
-	<div class="span-t sm-pad-top sm-pad-btm">
+	<div class="span-t">
 	<div class="container">
 	<div class="turquoise sixteen columns">
 		<h3 class="sm-pad-btm mar-tp-10 middle txt-wht">Unlcok all video tutorials</h3>
